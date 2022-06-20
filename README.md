@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @mariabeatrizsilva
-- 📫 Reach me at mariabeatrizsilva@hunterschools.org
+- 📫 Reach me at mariasilva@nyu.edu

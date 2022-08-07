@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @mariabeatrizsilva
-- 📫 Reach me at mariasilva@nyu.edu

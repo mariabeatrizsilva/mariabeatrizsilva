@@ -13,3 +13,4 @@ Connect with me: <p>
 </p>
 
 See my resume: 
+https://github.com/mariabeatrizsilva/resume/blob/main/MariaBeatriz_Silva_Resume-12.pdf

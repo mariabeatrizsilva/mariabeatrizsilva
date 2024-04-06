@@ -10,9 +10,9 @@
 My name is Maria Beatriz. I'm a Sophomore and Presidential Honors Scholar at NYU Courant majoring in CS with a minor in Mathematics. My research interests are currently centered around Computer Graphics and Computer Simulation. I currently am a teaching assistant at [ELiTE Education](http://www.elite-education.org) (an organization that teaches CS to NYC high schoolers from underrepresented backgrounds), an [MLT Career Prep Fellow on the SWE track](https://info.mlt.org/career-prep-software-engineering-swe?_gl=1*1go9dov*_ga*NDkyMDQ2NDgyLjE3MTIzODE1NTY.*_ga_4QFCKC472T*MTcxMjM4MTU1NS4xLjAuMTcxMjM4MTU1NS4wLjAuMA..), and a co-author of a paper that will be published at [ACM CHI 2024](https://chi2024.acm.org). This summer, I will be joining [Duolingo](https://www.duolingo.com) as a Thrive intern on the software engineering track. 
 
 Here are my favorite projects thus far:
-- :wine_glass: [Murano Cup](https://mariabeatrizsilva.github.io/murano/index.html): A 3d model of a murano glass cup.
+- :wine_glass: [Murano Cup](https://mariabeatrizsilva.github.io/murano/index.html): An interactive and customizeable 3d model of a Murano glass cup.
 - 🦠[Agent-based Model for Disease](https://github.com/mariabeatrizsilva/AgentBasedModeling): An agent-based SIRD model to simulate the spread of disease within a population.
-- :sauropod: PaleoScan: A low-cost, easy-to-use, high-volume system for fossil scanning. More details will be available in our upcoming CHI 2024 paper. 
+- :sauropod: PaleoScan: A low-cost, easy-to-use, high-volume system for fossil scanning that consists of both a scanner hardware and a data-processing pipeline. More details will be available in our upcoming CHI 2024 paper. 
 
 
 

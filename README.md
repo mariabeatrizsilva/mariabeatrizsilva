@@ -12,7 +12,7 @@ My name is Maria Beatriz. I'm a Sophomore and Presidential Honors Scholar at NYU
 Here are my favorite projects thus far:
 - :wine_glass: [Murano Cup](https://mariabeatrizsilva.github.io/murano/index.html): An interactive and customizeable 3d model of a Murano glass cup.
 - 🦠[Agent-based Model for Disease](https://github.com/mariabeatrizsilva/AgentBasedModeling): An agent-based SIRD model to simulate the spread of disease within a population.
-- :sauropod: [PaleoScan: Low-Cost Easy-to-use High-Volume Fossil Scanning](https://dl.acm.org/doi/10.1145/3613904.3642020), a fossil scanning system that consists of both a scanner hardware and a data-processing pipeline. More details will be available in our upcoming CHI 2024 paper. 
+- :sauropod: [PaleoScan: Low-Cost Easy-to-use High-Volume Fossil Scanning](https://dl.acm.org/doi/10.1145/3613904.3642020), a fossil scanning system that consists of both a scanner hardware and a data-processing pipeline. More details are available in our CHI 2024 paper. 
 
 
 

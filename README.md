@@ -1,10 +1,8 @@
 <h3> Hi There 😁 </h3>
  <a href="https://github.com/mariabeatrizsilva/resume/blob/c92b5b3016aef97b847bfc3e6ba74eb8761053f1/Maria_Silva-4.pdf"><img img src="https://img.shields.io/badge/access-my_resume-8A2BE2" alt="resume"/></a>
 <a href="https://www.linkedin.com/in/mariabiasilva/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<br><br>
 <a href="mailto:mariasilva@nyu.edu"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-
-
+<br> <br>
 
 
 My name is Maria Beatriz. I'm a Junior and Presidential Honors Scholar at NYU Courant majoring in Computer Science with a minor in Mathematics. While my specific research interests are not set in stone, I'm particularly drawn to work centered around Computer Graphics, Machine Learning, and Visualization. Ultimately, my goal is to work on projects that have potential for concrete social impact. 

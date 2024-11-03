@@ -7,7 +7,7 @@
 
 
 
-My name is Maria Beatriz. I'm a Junior and Presidential Honors Scholar at NYU Courant majoring in Comouter Science with a minor in Mathematics. While my specific research interests are not set in stone, I'm particularly drawn to work centered around Computer Graphics, Machine Learning, and Visualization. Ultimately, my goal is to work on projects that have potential for concrete social impact. 
+My name is Maria Beatriz. I'm a Junior and Presidential Honors Scholar at NYU Courant majoring in Computer Science with a minor in Mathematics. While my specific research interests are not set in stone, I'm particularly drawn to work centered around Computer Graphics, Machine Learning, and Visualization. Ultimately, my goal is to work on projects that have potential for concrete social impact. 
 
 
 In pursuit of this goal, I have taken on the following roles in the least year: 

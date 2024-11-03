@@ -19,7 +19,6 @@ My favorite projects I've done thus far are:
 - 🦠[Agent-based Model for Disease](https://github.com/mariabeatrizsilva/AgentBasedModeling): An agent-based SIRD model to simulate the spread of disease within a population.
 - :sauropod: [PaleoScan: Low-Cost Easy-to-use High-Volume Fossil Scanning](https://dl.acm.org/doi/10.1145/3613904.3642020), a fossil scanning system that consists of both a scanner hardware and a data-processing pipeline. More details are available in our CHI 2024 paper. 
 
-
-
+For more information, please don't hesitate to reach out by email (link at the top of this page).
 
 

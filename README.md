@@ -11,7 +11,7 @@ My name is Maria Beatriz. I'm a Junior and Presidential Honors Scholar at NYU Co
 In pursuit of this goal, I have taken on the following roles in the least year: 
 - Teaching assistant at [ELiTE Education](http://www.elite-education.org) (an organization that teaches CS to NYC high schoolers from underrepresented backgrounds),
 - [MLT Career Prep Fellow on the SWE track](https://info.mlt.org/career-prep-software-engineering-swe?_gl=1*1go9dov*_ga*NDkyMDQ2NDgyLjE3MTIzODE1NTY.*_ga_4QFCKC472T*MTcxMjM4MTU1NS4xLjAuMTcxMjM4MTU1NS4wLjAuMA..),
-- Co-author of a paper that will be published at [ACM CHI 2024](https://chi2024.acm.org), and finally,
+- Co-author of PaleoScan, a paper that will be published at [ACM CHI 2024](https://chi2024.acm.org), and finally,
 - Thrive intern at [Duolingo](https://www.duolingo.com) on the software engineering track. I will be returning to Duolingo as a Software Engineering Intern in in Summer 2025. 
 
 My favorite projects I've done thus far are:

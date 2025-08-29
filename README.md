@@ -5,14 +5,15 @@
 <br> <br>
 
 
-My name is Maria Beatriz. I'm a Junior and Presidential Honors Scholar at NYU Courant majoring in Computer Science with a minor in Mathematics. While my specific research interests are not set in stone, I'm particularly drawn to work centered around Computer Graphics, Machine Learning, and Visualization. Ultimately, my goal is to work on projects that have potential for concrete social impact. 
+My name is Maria Beatriz. I'm a Senior and Presidential Honors Scholar at NYU Courant majoring in Computer Science with a minor in Mathematics. While my specific research interests are not set in stone, I'm particularly drawn to work centered around Computer Graphics, Machine Learning, and Visualization. Ultimately, my goal is to work on projects that have potential for concrete social impact. 
 
 
-In pursuit of this goal, I have taken on the following roles in the least year: 
-- Teaching assistant at [ELiTE Education](http://www.elite-education.org) (an organization that teaches CS to NYC high schoolers from underrepresented backgrounds),
+In pursuit of this goal, I have taken on the following roles: 
+- Student researcher at NYU's [Immersive Computing Lab](https://www.immersivecomputinglab.org/research/), where I work on projects spanning Human Perception and Computer Graphics, with a focus on human-centered approaches to thinking about technology 
+- Co-author of [PaleoScan: Low-Cost Easy-to-use High-Volume Fossil Scanning](https://dl.acm.org/doi/10.1145/3613904.3642020), a paper that was be published at [ACM CHI 2024](https://chi2024.acm.org,
+- Software Engineering Intern at Duolingo (Summer 2025), where I worked on internal design tools as part of the Design Accelerator Area. I also was Thrive intern at [Duolingo](https://www.duolingo.com) on the software engineering track (Summer 2024),
+- Teaching assistant at [ELiTE Education](http://www.elite-education.org) (an organization that teaches CS to NYC high schoolers from underrepresented backgrounds), and
 - [MLT Career Prep Fellow on the SWE track](https://info.mlt.org/career-prep-software-engineering-swe?_gl=1*1go9dov*_ga*NDkyMDQ2NDgyLjE3MTIzODE1NTY.*_ga_4QFCKC472T*MTcxMjM4MTU1NS4xLjAuMTcxMjM4MTU1NS4wLjAuMA..),
-- Co-author of PaleoScan, a paper that will be published at [ACM CHI 2024](https://chi2024.acm.org), and finally,
-- Thrive intern at [Duolingo](https://www.duolingo.com) on the software engineering track. I will be returning to Duolingo as a Software Engineering Intern in in Summer 2025. 
 
 My favorite projects I've done thus far are:
 - :wine_glass: [Murano Cup](https://mariabeatrizsilva.github.io/murano/index.html): An interactive and customizeable 3d model of a Murano glass cup.

@@ -12,14 +12,14 @@ In pursuit of this goal, I have taken on the following roles:
 - Research Assistant at NYU's [Immersive Computing Lab](https://www.immersivecomputinglab.org/research/), where I work on projects spanning Human Perception and Computer Graphics, with a focus on human-centered approaches to thinking about technology
 - Co-author of [GeneVA: A Dataset of Human Annotations for Generative Text to Video Artifacts](https://arxiv.org/abs/2509.08818), which will be published at [WACV 2026](https://wacv.thecvf.com),
 - Co-author of [PaleoScan: Low-Cost Easy-to-use High-Volume Fossil Scanning](https://dl.acm.org/doi/10.1145/3613904.3642020), published at [ACM CHI 2024](https://chi2024.acm.org),
-- Software Engineering Intern at Duolingo (Summer 2025), where I worked on internal design tools as part of the Design Accelerator Area. I also was Thrive intern at [Duolingo](https://www.duolingo.com) on the software engineering track (Summer 2024),
-- Teaching assistant at [ELiTE Education](http://www.elite-education.org) (an organization that teaches CS to NYC high schoolers from underrepresented backgrounds), and
-- [MLT Career Prep Fellow on the SWE track](https://info.mlt.org/career-prep-software-engineering-swe?_gl=1*1go9dov*_ga*NDkyMDQ2NDgyLjE3MTIzODE1NTY.*_ga_4QFCKC472T*MTcxMjM4MTU1NS4xLjAuMTcxMjM4MTU1NS4wLjAuMA..),
+- Software Engineering Intern at Duolingo (Summer 2025), where I worked on internal design tools as part of the Design Accelerator Area. I also was Thrive intern at [Duolingo](https://www.duolingo.com) on the software engineering track (Summer 2024), and
+- Teaching assistant at [ELiTE Education](http://www.elite-education.org) (an organization that teaches CS to NYC high schoolers from underrepresented backgrounds)
 
 My favorite projects I've done thus far are:
-- :wine_glass: [Murano Cup](https://mariabeatrizsilva.github.io/murano/index.html): An interactive and customizeable 3d model of a Murano glass cup.
+- 🧩 [Geometry Remesher](https://mariabeatrizsilva.github.io/murano/index.html](https://github.com/mariabeatrizsilva/GeometryRemesher): A high-quality, uniform remeshing system for 3D meshes. It utilizes error diffusion (halftoning) on a 2D harmonic parameterization to generate well-distributed new vertices, inspired by the work of Alliez et al.
+- 👾 [Multiresolution Mesh Editing](https://github.com/mariabeatrizsilva/LaplacianDeformer/tree/main): An efficient, multiresolution system for Laplacian Mesh Deformation enabling near real-time (thanks to Cholesky!), handle-based manipulation of complex 3D meshes while preserving high-frequency surface details.
+- :wine_glass: [Murano Cup](https://mariabeatrizsilva.github.io/murano/index.html): An interactive and customizable 3d model of a Murano glass cup.
 - 🦠[Agent-based Model for Disease](https://github.com/mariabeatrizsilva/AgentBasedModeling): An agent-based SIRD model to simulate the spread of disease within a population.
-- :sauropod: [PaleoScan: Low-Cost Easy-to-use High-Volume Fossil Scanning](https://dl.acm.org/doi/10.1145/3613904.3642020), a fossil scanning system that consists of both a scanner hardware and a data-processing pipeline. More details are available in our CHI 2024 paper. 
 
 For more information, please don't hesitate to reach out by email (link at the top of this page).
 

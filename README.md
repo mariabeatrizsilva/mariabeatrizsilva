@@ -10,8 +10,8 @@ My name is Maria Beatriz. I'm a Senior and Presidential Honors Scholar at NYU Co
 
 In pursuit of this goal, I have taken on the following roles: 
 - Research Assistant at NYU's [Immersive Computing Lab](https://www.immersivecomputinglab.org/research/), where I work on projects spanning Human Perception and Computer Graphics, with a focus on human-centered approaches to thinking about technology
-- Co-author of [Geneva](https://arxiv.org/abs/2509.08818), a paper that is to be published at [WACV 2026](https://chi2024.acm.org,
-- Co-author of [PaleoScan: Low-Cost Easy-to-use High-Volume Fossil Scanning](https://dl.acm.org/doi/10.1145/3613904.3642020), a paper that was published at [ACM CHI 2024](https://chi2024.acm.org,
+- Co-author of [GeneVA: A Dataset of Human Annotations for Generative Text to Video Artifacts](https://arxiv.org/abs/2509.08818), which will be published at [WACV 2026](https://wacv.thecvf.com),
+- Co-author of [PaleoScan: Low-Cost Easy-to-use High-Volume Fossil Scanning](https://dl.acm.org/doi/10.1145/3613904.3642020), published at [ACM CHI 2024](https://chi2024.acm.org),
 - Software Engineering Intern at Duolingo (Summer 2025), where I worked on internal design tools as part of the Design Accelerator Area. I also was Thrive intern at [Duolingo](https://www.duolingo.com) on the software engineering track (Summer 2024),
 - Teaching assistant at [ELiTE Education](http://www.elite-education.org) (an organization that teaches CS to NYC high schoolers from underrepresented backgrounds), and
 - [MLT Career Prep Fellow on the SWE track](https://info.mlt.org/career-prep-software-engineering-swe?_gl=1*1go9dov*_ga*NDkyMDQ2NDgyLjE3MTIzODE1NTY.*_ga_4QFCKC472T*MTcxMjM4MTU1NS4xLjAuMTcxMjM4MTU1NS4wLjAuMA..),

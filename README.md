@@ -9,7 +9,7 @@ My name is Maria Beatriz. I'm a Senior and Presidential Honors Scholar at NYU Co
 
 
 In pursuit of this goal, I have taken on the following roles: 
-- Student researcher at NYU's [Immersive Computing Lab](https://www.immersivecomputinglab.org/research/), where I work on projects spanning Human Perception and Computer Graphics, with a focus on human-centered approaches to thinking about technology 
+- Research Assistant at NYU's [Immersive Computing Lab](https://www.immersivecomputinglab.org/research/), where I work on projects spanning Human Perception and Computer Graphics, with a focus on human-centered approaches to thinking about technology 
 - Co-author of [PaleoScan: Low-Cost Easy-to-use High-Volume Fossil Scanning](https://dl.acm.org/doi/10.1145/3613904.3642020), a paper that was be published at [ACM CHI 2024](https://chi2024.acm.org,
 - Software Engineering Intern at Duolingo (Summer 2025), where I worked on internal design tools as part of the Design Accelerator Area. I also was Thrive intern at [Duolingo](https://www.duolingo.com) on the software engineering track (Summer 2024),
 - Teaching assistant at [ELiTE Education](http://www.elite-education.org) (an organization that teaches CS to NYC high schoolers from underrepresented backgrounds), and

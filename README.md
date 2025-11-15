@@ -16,9 +16,9 @@ In pursuit of this goal, I have taken on the following roles:
 - Teaching assistant at [ELiTE Education](http://www.elite-education.org) (an organization that teaches CS to NYC high schoolers from underrepresented backgrounds)
 
 My favorite projects I've done thus far are:
-- 🧩 [Geometry Remesher](https://mariabeatrizsilva.github.io/murano/index.html](https://github.com/mariabeatrizsilva/GeometryRemesher): A high-quality, uniform remeshing system for 3D meshes. It utilizes error diffusion (halftoning) on a 2D harmonic parameterization to generate well-distributed new vertices, inspired by the work of Alliez et al.
+- 🧩 [Geometry Remesher](https://github.com/mariabeatrizsilva/GeometryRemesher): A high-quality, uniform remeshing system for 3D meshes. It utilizes error diffusion (halftoning) on a 2D harmonic parameterization to generate well-distributed new vertices, inspired by the work of Alliez et al.
 - 👾 [Multiresolution Mesh Editing](https://github.com/mariabeatrizsilva/LaplacianDeformer/tree/main): An efficient, multiresolution system for Laplacian Mesh Deformation enabling near real-time (thanks to Cholesky!), handle-based manipulation of complex 3D meshes while preserving high-frequency surface details.
-- :wine_glass: [Murano Cup](https://mariabeatrizsilva.github.io/murano/index.html): An interactive and customizable 3d model of a Murano glass cup.
+- :wine_glass: [Murano Cup](https://mariabeatrizsilva.github.io/murano/index.html): An interactive and customizable 3D model of a Murano glass cup.
 - 🦠[Agent-based Model for Disease](https://github.com/mariabeatrizsilva/AgentBasedModeling): An agent-based SIRD model to simulate the spread of disease within a population.
 
 For more information, please don't hesitate to reach out by email (link at the top of this page).

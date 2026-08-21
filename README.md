@@ -5,7 +5,7 @@
 <br> <br>
 
 
-My name is Maria Beatriz. I'm a Senior and Presidential Honors Scholar at NYU Courant majoring in Computer Science with a minor in Mathematics. While my specific research interests are not set in stone, I'm particularly drawn to work centered around Computer Graphics, Machine Learning, and Visualization. Ultimately, my goal is to work on projects that have potential for concrete social impact. 
+My name is Maria Beatriz. I'm a Fulbright Scholar pursuing a Master’s degree in Visual and Creative AI at École Polytechnique. While my specific research interests are not set in stone, I'm particularly drawn to work centered around Computer Graphics, Machine Learning, and Visualization. Ultimately, my goal is to work on projects that have potential for concrete social impact. 
 
 
 In pursuit of this goal, I have taken on the following roles: 
@@ -16,6 +16,7 @@ In pursuit of this goal, I have taken on the following roles:
 - Teaching assistant at [ELiTE Education](http://www.elite-education.org) (an organization that teaches CS to NYC high schoolers from underrepresented backgrounds)
 
 My favorite projects I've done thus far are:
+- 🌃 NightWalk: A computer vision system that predicts nighttime street brightness from a daytime photo alone, fine-tuned on 974 hand-paired day–night images collected across NYC — deployed in a prototype route planner for well-lit pedestrian paths.
 - 🧩 [Geometry Remesher](https://github.com/mariabeatrizsilva/GeometryRemesher): A high-quality, uniform remeshing system for 3D meshes. It utilizes error diffusion (halftoning) on a 2D harmonic parameterization to generate well-distributed new vertices, inspired by the work of Alliez et al.
 - 👾 [Multiresolution Mesh Editing](https://github.com/mariabeatrizsilva/LaplacianDeformer/tree/main): An efficient, multiresolution system for Laplacian Mesh Deformation enabling near real-time (thanks to Cholesky!), handle-based manipulation of complex 3D meshes while preserving high-frequency surface details.
 - :wine_glass: [Murano Cup](https://mariabeatrizsilva.github.io/murano/index.html): An interactive and customizable 3D model of a Murano glass cup.
